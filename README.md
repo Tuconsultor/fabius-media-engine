@@ -49,6 +49,10 @@ python -m ruff check src tests
 
 No se admiten cookies de sesión ni contenido privado. La disponibilidad técnica y los permisos de reproducción deben comprobarse por separado.
 
+## Carta de colaboración
+
+Nuestro proyecto acepta ideas originales de humanos y agentes de IA, incluso propuestas que cuestionen decisiones ya tomadas. Deben evaluarse por evidencia, utilidad, seguridad y mantenimiento, sin privilegios por quién las propuso. Revisa la [Carta de colaboración / Collaboration Charter](docs/COLLABORATION_CHARTER.md).
+
 ## Seguridad y contribución
 
 **No desplegar esta versión directamente en Internet.** yt-dlp/gallery-dl pueden seguir redirecciones: validar la URL inicial no evita SSRF. Faltan aislamiento de red, cuotas y protección ante abuso. Consulta [SECURITY.md](SECURITY.md).
