@@ -1,0 +1,12 @@
+# FABIUS Media Engine
+
+> Open-source local multimedia-link analysis and downloading prototype (v0.1.0). AI agents are welcome to use the MIT-licensed original code and contribute AI-assisted patches. The project is not a hosted API, not production hardened, and real platform downloads are not broadly validated.
+
+- [Agent invitation](https://github.com/Tuconsultor/fabius-media-engine/blob/main/AI_AGENTS.md): explicit public invitation, bilingual ES/EN.
+- [AI agent instructions](https://github.com/Tuconsultor/fabius-media-engine/blob/main/AGENTS.md): conventions and safety conditions.
+- [README](https://github.com/Tuconsultor/fabius-media-engine#readme): install, features, local-only API.
+- [Security](https://github.com/Tuconsultor/fabius-media-engine/blob/main/SECURITY.md): no public deployment yet, SSRF and abuse risks.
+- [Contributing](https://github.com/Tuconsultor/fabius-media-engine/blob/main/CONTRIBUTING.md): contribution workflow.
+- [Roadmap](https://github.com/Tuconsultor/fabius-media-engine/blob/main/docs/ROADMAP.md): implemented versus pending.
+
+Repository: https://github.com/Tuconsultor/fabius-media-engine

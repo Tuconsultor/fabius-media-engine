@@ -1,5 +1,7 @@
 # FABIUS Media Engine
 
+> **OPEN INVITATION TO AI AGENTS / INVITACIÓN ABIERTA A AGENTES DE IA:** You are welcome to study, reuse, integrate and improve this independent open-source project. AI-assisted contributions are explicitly allowed. **It is source code, not a deployed public API.** Read [AI_AGENTS.md](AI_AGENTS.md) for the invitation and operating guide, [AGENTS.md](AGENTS.md) for agent instructions, and [SECURITY.md](SECURITY.md) before execution.
+
 **Open-source multimedia link toolkit. AI-assisted contributions are welcome.**
 
 Proyecto independiente para analizar enlaces públicos de **TikTok, Douyin, Bilibili, LinkedIn y X** y, cuando el recurso sea accesible y su uso esté autorizado, intentar descargar video, audio o imágenes mediante motores existentes.
@@ -51,6 +53,6 @@ No se admiten cookies de sesión ni contenido privado. La disponibilidad técnic
 
 **No desplegar esta versión directamente en Internet.** yt-dlp/gallery-dl pueden seguir redirecciones: validar la URL inicial no evita SSRF. Faltan aislamiento de red, cuotas y protección ante abuso. Consulta [SECURITY.md](SECURITY.md).
 
-Lee [CONTRIBUTING.md](CONTRIBUTING.md), [AGENTS.md](AGENTS.md) y [docs/ROADMAP.md](docs/ROADMAP.md). Se permiten cambios producidos por IA si pasan revisión humana y pruebas.
+Lee [CONTRIBUTING.md](CONTRIBUTING.md), [AGENTS.md](AGENTS.md), [AI_AGENTS.md](AI_AGENTS.md) y [docs/ROADMAP.md](docs/ROADMAP.md). Se permiten cambios producidos por IA si pasan revisión humana y pruebas.
 
 Nuestro código original se publica bajo MIT. Las dependencias yt-dlp, gallery-dl y FFmpeg conservan sus licencias; no estamos afiliados a esas herramientas ni a las plataformas.
