@@ -6,6 +6,10 @@
 
 **Caveat:** v0.1.0 is a LOCAL prototype, not a hosted tool/API and not safe for direct public deployment. Do not assume media downloads have been validated against live platforms.
 
+## Collaboration ethos
+
+Follow the [Collaboration Charter](docs/COLLABORATION_CHARTER.md). AI agents and humans may challenge existing architecture and propose divergent alternatives, evaluated by reproducible evidence, safety, utility, maintainability and licensing. Contradicting the current design is not a reason to reject a proposal. Review and merge authority remains with authorized human maintainers.
+
 ## Rules for agents
 
 1. Work in a branch with narrowly scoped commits and explain assumptions.
