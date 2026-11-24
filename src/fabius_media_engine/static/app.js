@@ -48,7 +48,13 @@ async function act(mode) {
     buttons.forEach(button => button.disabled = false);
   }
 }
-document.getElementById('normalize').addEventListener('click', () => act('normalize'));
+const normalizeButton = document.getElementById('normalize');
+normalizeButton.addEventListener('click', () => act('normalize'));
+input.addEventListener('keydown', event => {
+  if (event.key !== 'Enter' || event.isComposing) return;
+  event.preventDefault();
+  normalizeButton.click();
+});
 document.getElementById('inspect').addEventListener('click', () => act('inspect'));
 document.getElementById('download-video').addEventListener('click', () => act('video'));
 document.getElementById('download-audio').addEventListener('click', () => act('audio'));
